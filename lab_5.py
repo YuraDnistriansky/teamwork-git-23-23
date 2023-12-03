@@ -3,6 +3,7 @@ creating a class 'Book' with book parameters
 creating a class 'BookShop' where adds class obgects 'Book'
 In class 'BookShop' is sorting class objects 'Book' by parametrs
 """
+
 class Book:
     """
     Class 'Book', that has characteristics of a book in a bookshop
